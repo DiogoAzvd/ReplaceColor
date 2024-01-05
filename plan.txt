@@ -1,0 +1,24 @@
+1. Keep in mind the project idea
+
+2. Think about what I would need to do that project, functions, components...
+
+3. Search for natives functions that can help me
+
+4. Make prototype of the functions
+
+5. Make a sketch of the page
+
+6. Faqin code
+
+Element by element, finish html and css and later add js
+
+---
+
+
+
+-- TOOLBAR --
+
+MASK MODE - TURN OFF / ON / Hide | CLEAR | STROKE WIDTH | ERASE
+COLOR SETTINGS - COLOR TO AFFECT / RANGE / PEN | COLOR TO NOT AFFECT / RANGE / PEN | NEW COLOR - SELECTOR
+CHANGE COLOR BUTTON
+SAVE CURRENT STATE
